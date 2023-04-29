@@ -129,3 +129,190 @@ Processing by StaticPagesController#index as HTML
 Completed 200 OK in 112ms (Views: 105.2ms | ActiveRecord: 0.0ms | Allocations: 59771)
 
 
+Started GET "/" for ::1 at 2023-04-29 16:19:19 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 480)
+  Rendered layouts/_header.html.erb (Duration: 0.7ms | Allocations: 440)
+  Rendered layouts/_footer.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 95.6ms | Allocations: 53684)
+Completed 200 OK in 103ms (Views: 97.8ms | ActiveRecord: 0.0ms | Allocations: 59738)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:19:37 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 480)
+  Rendered layouts/_header.html.erb (Duration: 0.7ms | Allocations: 440)
+  Rendered layouts/_footer.html.erb (Duration: 0.5ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 92.5ms | Allocations: 54151)
+Completed 200 OK in 100ms (Views: 94.9ms | ActiveRecord: 0.0ms | Allocations: 60205)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:19:41 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 11)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 104)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 70)
+  Rendered layout layouts/application.html.erb (Duration: 10.8ms | Allocations: 6789)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 7170)
+
+
+Started GET "/sobre" for ::1 at 2023-04-29 16:20:00 -0300
+Processing by StaticPagesController#sobre as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/sobre.html.erb within layouts/application
+  Rendered static_pages/sobre.html.erb within layouts/application (Duration: 0.5ms | Allocations: 139)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 69)
+  Rendered layout layouts/application.html.erb (Duration: 10.2ms | Allocations: 6709)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 7103)
+
+
+Started GET "/contato" for ::1 at 2023-04-29 16:20:19 -0300
+Processing by StaticPagesController#contato as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/contato.html.erb within layouts/application
+  Rendered static_pages/contato.html.erb within layouts/application (Duration: 1.5ms | Allocations: 145)
+  Rendered layouts/_header.html.erb (Duration: 0.8ms | Allocations: 369)
+  Rendered layouts/_footer.html.erb (Duration: 0.6ms | Allocations: 273)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 7893)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms | Allocations: 9021)
+
+
+Started GET "/contato" for ::1 at 2023-04-29 16:21:45 -0300
+Processing by StaticPagesController#contato as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/contato.html.erb within layouts/application
+  Rendered static_pages/contato.html.erb within layouts/application (Duration: 0.7ms | Allocations: 463)
+  Rendered layouts/_header.html.erb (Duration: 1.0ms | Allocations: 440)
+  Rendered layouts/_footer.html.erb (Duration: 0.5ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 93.8ms | Allocations: 53717)
+Completed 200 OK in 101ms (Views: 96.1ms | ActiveRecord: 0.0ms | Allocations: 59769)
+
+
+Started GET "/contato" for ::1 at 2023-04-29 16:23:41 -0300
+Processing by StaticPagesController#contato as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/contato.html.erb within layouts/application
+  Rendered static_pages/contato.html.erb within layouts/application (Duration: 0.8ms | Allocations: 463)
+  Rendered layouts/_header.html.erb (Duration: 0.7ms | Allocations: 440)
+  Rendered layouts/_footer.html.erb (Duration: 0.5ms | Allocations: 300)
+  Rendered layout layouts/application.html.erb (Duration: 97.8ms | Allocations: 53989)
+Completed 200 OK in 106ms (Views: 100.2ms | ActiveRecord: 0.0ms | Allocations: 60041)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:23:43 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 147)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 104)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 88)
+  Rendered layout layouts/application.html.erb (Duration: 10.8ms | Allocations: 6942)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 7400)
+
+
+Started GET "/sobre" for ::1 at 2023-04-29 16:23:45 -0300
+Processing by StaticPagesController#sobre as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/sobre.html.erb within layouts/application
+  Rendered static_pages/sobre.html.erb within layouts/application (Duration: 0.4ms | Allocations: 119)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 10.8ms | Allocations: 6699)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 7072)
+
+
+Started GET "/contato" for ::1 at 2023-04-29 16:23:46 -0300
+Processing by StaticPagesController#contato as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/contato.html.erb within layouts/application
+  Rendered static_pages/contato.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 12.5ms | Allocations: 6600)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 6918)
+
+
+Started GET "/sobre" for ::1 at 2023-04-29 16:23:48 -0300
+Processing by StaticPagesController#sobre as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/sobre.html.erb within layouts/application
+  Rendered static_pages/sobre.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | Allocations: 6598)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 6916)
+
+
+Started GET "/contato" for ::1 at 2023-04-29 16:23:52 -0300
+Processing by StaticPagesController#contato as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/contato.html.erb within layouts/application
+  Rendered static_pages/contato.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layouts/_header.html.erb (Duration: 0.4ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 6587)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms | Allocations: 6901)
+
+
+Started GET "/sobre" for ::1 at 2023-04-29 16:23:54 -0300
+Processing by StaticPagesController#sobre as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/sobre.html.erb within layouts/application
+  Rendered static_pages/sobre.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 6601)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 6915)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:23:55 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 8)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 6598)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 6915)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:31:50 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 8)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 6600)
+Completed 200 OK in 19ms (Views: 18.1ms | Allocations: 6914)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:31:51 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 8)
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layouts/_footer.html.erb (Duration: 0.3ms | Allocations: 87)
+  Rendered layout layouts/application.html.erb (Duration: 17.0ms | Allocations: 6591)
+Completed 200 OK in 18ms (Views: 17.7ms | Allocations: 6905)
+
+
+Started GET "/" for ::1 at 2023-04-29 16:37:10 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 604)
+  Rendered layouts/_header.html.erb (Duration: 0.8ms | Allocations: 427)
+  Rendered layouts/_footer.html.erb (Duration: 2.8ms | Allocations: 300)
+  Rendered layout layouts/application.html.erb (Duration: 161.0ms | Allocations: 53784)
+Completed 200 OK in 169ms (Views: 163.4ms | ActiveRecord: 0.0ms | Allocations: 59838)
+
+
