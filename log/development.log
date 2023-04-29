@@ -14,3 +14,12 @@ Processing by StaticPagesController#index as HTML
 Completed 200 OK in 1916ms (Views: 1248.3ms | ActiveRecord: 0.0ms | Allocations: 95671)
 
 
+Started GET "/" for ::1 at 2023-04-29 15:40:29 -0300
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 97.4ms | Allocations: 480)
+  Rendered layout layouts/application.html.erb (Duration: 2292.5ms | Allocations: 197315)
+Completed 200 OK in 3066ms (Views: 2515.9ms | ActiveRecord: 0.0ms | Allocations: 203379)
+
+
